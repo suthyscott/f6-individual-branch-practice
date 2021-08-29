@@ -26,6 +26,8 @@ Now that we've merged that in, let's go back to our local main branch and make s
 
 ## Branches in group projects. 
 
+The below instructions apply to and are echoed in this repo: https://github.com/suthyscott/branch-example-f6
+
 Make a repo and send them all a link to view it. Pick a student and invite them to the group repo as a collaborator, and thave them clone the project. 
 
 Have all the other students fork and then clone it, then add a js file with a console.log of their name. 
@@ -38,6 +40,6 @@ To demonstrate conflicts, have the SC add another change at the same time as you
 
 To resolve these conflicts, make a new branch. Make a pull request and show how to resolve the conflicts in GitHub and merge it in. 
 
-For the students who forked and cloned, make sure they've added and pushed their changes. Explain that in an open source project you'll need to for and clone the repos. 
+For the students who forked and cloned, make sure they've added and pushed their changes. Explain that in an open source project you'll need to fork and clone the repos. 
 
-Have them create a new pull request to add their repo to your base repo. Then show you merging the pull requests in and how it updates the original repo. Now you can see and pull down the changes made by them in their forked repos. 
+Have them create a new pull request to add their repo to your base repo. Then show you merging the pull requests in and how it updates the original repo. Now you can see and pull down the changes made by them in their forked repos. Note that forking does not create a new branch but rather a separate repo.
